@@ -1,7 +1,5 @@
 # hubot-tableflip
 
-[![Build Status](https://travis-ci.org/jjasghar/hubot-fliptable.png?branch=master)](https://travis-ci.org/sparksterz/hubot-tableflip)
-
 tableflip will paste gif links from tableflipper.com when asked.
 Ex. hubot flip the table
 
