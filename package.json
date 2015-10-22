@@ -1,6 +1,6 @@
 {
   "name": "hubot-tableflip",
-  "description": "tableflip will paste gif links from tableflipper.com when asked,
+  "description": "tableflip will paste gif links from tableflipper.com when asked",
   "version": "0.1.0",
   "author": "Brian King <sparksterz@github.com>",
   "license": "MIT",
