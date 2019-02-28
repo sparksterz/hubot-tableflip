@@ -15,4 +15,4 @@ module.exports = (robot) ->
   robot.respond /flip the table/i, (msg) ->
     msg.http("http://www.tableflipper.com/json")
       .get() (err, res, body) ->
-        msg.send JSON.parse(body).gif
+        msg.send 'http://www.tableflipper.com/'+JSON.parse(body).gif.split('/')[3]
